@@ -1,0 +1,8 @@
+altair
+streamlit
+pandas
+numpy
+fpdf
+scikit-learn
+joblib
+tensorflow-cpu
